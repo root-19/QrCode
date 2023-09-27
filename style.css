@@ -1,0 +1,30 @@
+.qr-code {
+  max-width: 200px;
+  margin: 10px;
+}
+img{
+ width: 80%;
+}
+#generate{
+  text-align: center;
+}
+#generate{
+  justify-self: center;
+  justify-content: center;
+  text-align: center;
+margin-left: 10em;
+
+
+}
+#generate:hover{
+  background-color: rgb(54, 40, 250);
+  color: rgb(255, 255, 255);
+}
+@media (max-width: 720){
+  #generate{
+    justify-self: center;
+    justify-content: center;
+    text-align: center;
+    margin-left: 7em;
+}
+}
